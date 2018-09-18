@@ -1,0 +1,10 @@
+una agenda que maneje estos datos:
+-nombre completo 
+-direccion
+-celular
+-email
+-dia mes y año de nacimiento.
+Debera tener como maximo 100 personas se debera poder añadir un nuevo registro, visualizar los nombres de los registros existentes o mostrar todos los datos de una persona "Se preguntara al usuario cual es el nombre de la persona que quiere visualizar".
+al empezar el programa leera los datos de un archivo llamado "Agenda.txt"
+
+ingresar, imprimir todo o solicitar un alumno
